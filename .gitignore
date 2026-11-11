@@ -1,0 +1,14 @@
+data/
+cache/
+outputs/
+checkpoints/
+configs/paths.yaml
+*.nii
+*.nii.gz
+*.npy
+*.npz
+*.pt
+*.pth
+.venv/
+__pycache__/
+.ipynb_checkpoints/
